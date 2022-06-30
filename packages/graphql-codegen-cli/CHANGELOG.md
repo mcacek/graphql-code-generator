@@ -1,5 +1,11 @@
 # @graphql-codegen/cli
 
+## 2.7.0
+
+### Minor Changes
+
+- e050230c0: Remove unnecessary browser check
+
 ## 2.6.4
 
 ### Patch Changes
